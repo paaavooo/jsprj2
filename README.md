@@ -1,11 +1,11 @@
 # Project Title 
-The name of the Project and all authors involved
+Elokuvan hakukone, Paavo Koivistoinen
 
 ## Demo link:
-Access my site at [google.com](https://google.com)
+Access my site at [Elokuva hakukone](https://elokuvahakukone.netlify.app)
 
 ## How was the workload divided
-How was the workload divided. Who did what? 
+Tein itse 
 
 
 
@@ -21,34 +21,18 @@ How was the workload divided. Who did what?
 - [License](#license)
 
 ## About The App
-[Name of project] is an app that ...
+Elokuva hakukone on sovellus jolla voi hakea elokuvia jotka pyörivät teattereissa. Hakukoneella pystyy hakemaan alueittain tietoa elokuvista, kuten niiden aikatauluista elokuvissa. Elokuvia pystyy myös hakemaan muuten vain ilman aluetta tai ilman, että niillä olisi välitöntä esitystä tiedossa, joiden tiedot tulevat Open Movie tietokannasta.
 
 ## Screenshots
-Add here atleast one screenshot of the working application 
-`![Writing](https://unsplash.com/photos/VBPzRgd7gfc)`
-
-Picture by [Kelly Sikkema](https://unsplash.com/@kellysikkema)
+![kuva](elokuvakone.png)
 
 ## Technologies
-Describe which technologies were used and the role of each in your project. 
-I used the following technologies `html`, `css`, ...
+Käytin tässä HTML, CSS ja JavaScriptiä.
 
 ## Setup
-Write brief instructions on how to run and use your app. For example:
-- download all the files and open index.html in your browser
-- download or clone the repository
-- run `npm install`
-- ...
-
+Sovelluksen käyttö on yksinkertaista, täytyy vain avata linkki joka on upotettu demo kohtaan.
 ## Status
-[name of project] is still in progress. `Version 2` will be out soon.
+Sovellus on valmis ja julkaistu
 
 ## Credits
-List of contriubutors and sources you used during the project. Also mention if you used ChatGPT or other AI tools when coding and explain how did you benefit from them.
-- [John Doe](johndoe.com)
-- [Beginners guide to BEM](link-goes-here.com)
-
-## License
-Choose a license for your project by following this [guide](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository).
-
-Example: MIT license @ [author](author.com)
+Käytin tehtävässä apunani ChatGPT tekoälyä auttamaan ratkaisemaan ongelmatilanteita ja kysyäkseni mielipiteitä ja ratkaisuja asioihin joita en aivan itse vielä ymmärtänyt.
