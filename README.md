@@ -2,7 +2,7 @@
 Elokuvan hakukone, Paavo Koivistoinen
 
 ## Demo link:
-Access my site at [Elokuva hakukone](https://elokuvahakukone.netlify.app)
+Tästä pääsee sivulle [Elokuva hakukone](https://elokuvahakukone.netlify.app)
 
 ## How was the workload divided
 Tein itse 
