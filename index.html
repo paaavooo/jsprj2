@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leffalista</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Elokuvateatteri &amp; Leffahaku</h1>
+    </header>
+    
+    <main>
+        <section id="filters">
+            <label for="theater-select">Valitse teatteri:</label>
+            <select id="theater-select">
+            </select>
+
+            <label for="search-input">Hae elokuvaa:</label>
+            <input type="text" id="search-input" placeholder="Etsi elokuvia..." />
+            <button id="search-button">Etsi</button>
+        </section>
+
+        <section id="movie-info">
+            <h2>Elokuvat:</h2>
+            <div id="movies-container">
+            </div>
+        </section>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
